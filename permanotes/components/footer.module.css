@@ -1,0 +1,12 @@
+.footerstyle {
+  width:100%;
+
+  border-top: 1px solid #eaeaea;
+  padding: 7000px 1110;  
+  align-items: center;
+  bottom: 0px;
+}
+
+.footerstyle footer{
+  text-align: center;
+}
