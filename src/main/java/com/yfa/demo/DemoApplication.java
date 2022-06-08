@@ -55,7 +55,7 @@ public class DemoApplication {
 			Scanner myReader = new Scanner(myObj);
 			while (myReader.hasNextLine()) {
 			  String data = myReader.nextLine();
-			  //System.out.println(data);
+			  System.out.println(data);
 			  noteContextList.add(data);
 			}
 			myReader.close();
